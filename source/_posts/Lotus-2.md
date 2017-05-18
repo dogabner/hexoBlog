@@ -14,6 +14,8 @@ tags:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=29774186&auto=0&height=66"></iframe>
 
+<!-- more -->
+
  歌词 | 罗马音 | 翻译                  
 :------: | :-------: | :-------: 
 黄金の月 草の露に幾万も昇り|kogane no tsukikusa no Ro ni iku man mo nobori|金色月亮在每一颗露珠上投下初升的倩影

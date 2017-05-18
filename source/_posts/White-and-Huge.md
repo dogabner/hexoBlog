@@ -11,6 +11,8 @@ tags:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28069753&auto=0&height=66"></iframe>
 
+<!-- more -->
+
   歌词 | 罗马音                   
 :------: | :-------: 
 無音|muon
