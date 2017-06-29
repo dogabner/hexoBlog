@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Susumu Hirasawa-白く巨大で
-date: 2017-04-29 1:14:27
+date: 2017-03-29 1:14:27
 categories: 歌曲
 tags: 
         - 歌曲
