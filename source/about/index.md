@@ -34,13 +34,13 @@ type: "picture"
 
 {% endraw %}
 
-临近毕业也是拍摄了一些[**毕业留念的照片**](http://mp.weixin.qq.com/s/7w7vfIF9YKTRGS7rdpbALg '“醉”璀璨！交大将为2017届毕业生点亮外滩！')。
+临近毕业也是拍摄了一些[**毕业留念的照片**](http://mp.weixin.qq.com/s/7w7vfIF9YKTRGS7rdpbALg '“醉”璀璨！交大将为2017届毕业生点亮外滩！')，被学校采用。
 
 ### 美术技能
 
-熟练使用Photoshop, Illustrator, Indesign等设计软件。而且这些设计软件都支持JavaScripts的脚步，自己也是写过[**一些脚本**](https://github.com/dogabner/adobeScripts 'Adobe系列软件脚本工具') 来自动化一些繁琐的操作。
+熟练使用Photoshop, Illustrator, Indesign等设计软件。因为这些设计软件都支持JavaScripts，自己也是写过[**一些脚本**](https://github.com/dogabner/adobeScripts 'Adobe系列软件脚本工具') 来自动化某些繁琐的操作。
 
-在校期间，任职过交大美术协会副会长，组织过墙画、地画活动，教过手绘课程，[**PS技术**](http://news.sjtu.edu.cn/info/1009/392248.htm '盛老师教你PS')。
+在校期间，任职过交大美术协会副会长，组织过墙画、地画活动，教过手绘课程以及[**PS技术**](http://news.sjtu.edu.cn/info/1009/392248.htm '盛老师教你PS')。
 {% img painting http://ooi7k7jkm.bkt.clouddn.com/works/wall.jpg 墙画 %}
 
 做过一些视频，会使用Premiere，AfterEffects等软件。对动画，特效感兴趣，熟练使用Cinema4D三维动画软件，也是写了一些Cinema4D用的[**Python脚本**](https://github.com/dogabner/Cinema4DTools 'Python tools for Cinema4D')。
@@ -57,6 +57,8 @@ type: "picture"
 
 ### 游戏开发
 
-现在想来，不断累积的这些技能，艺术相关也好，计算机也好，学习这些的目的可能更多是为了自己来开发游戏，自己来创造一个可玩的世界。正好微软的ID@XBOX举办了第一届的校园行大赛，因此临时学了Unity3D以及C#尝试着参加了比赛。最终能进入决赛自己也很是惊喜。我们的[**游戏主页**](http://fracgames.com 'Seeder主页')上面能找到试玩版本。
+现在想来，不断累积的这些技能，艺术相关也好，计算机也好，学习这些的目的可能更多是为了自己来开发游戏，自己来创造一个可玩的世界。正好微软的ID@XBOX举办了第一届的校园行大赛，因此临时学了Unity3D以及C#尝试着参加了比赛。最终能进入决赛自己也很是惊喜。
+
+我们的[**游戏主页**](http://fracgames.com 'Seeder主页')上面能找到试玩版本。
 
 

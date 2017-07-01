@@ -2,7 +2,10 @@
 layout: blog
 title: Meaning of Life
 date: 2017-05-24 10:42:57
-tags:
+categories: 思索
+tags: 
+        - 人生
+        - 死亡
 ---
 
 我来告诉你生命的意义：**生命的意义就是死亡**。没错，就是**死亡**。
